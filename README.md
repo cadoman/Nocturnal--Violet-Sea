@@ -1,3 +1,3 @@
 # Nocturnal--Violet-Sea
-I made a theme using Nocturnal.
+I made a theme for BetterDiscord using Nocturnal.
 That's about it.
